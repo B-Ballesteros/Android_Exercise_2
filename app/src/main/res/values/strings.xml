@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">m1_JBBM_LABO_Bienvenida</string>
+
+    <string name="hint_nombre">tu nombre aqui</string>
+    <string name="button_saludar">Saludar</string>
+    <string name="icono">icono</string>
+    <string name="mensaje_bienvenida_1">Bienvenido(a)\u0020</string>
+    <string name="mensaje_bienvenida_2">\u0020al curso de Android</string>
+    <string name="button_mostrar">Mostrar Imagen</string>
+</resources>
